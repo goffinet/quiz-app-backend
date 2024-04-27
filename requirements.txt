@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+python-jose[cryptography]
+python-multipart
+psycopg2-binary
+pytest
+httpx
